@@ -51,10 +51,6 @@ Outside of study, I enjoy music, working out, movies, and reading.
 
 <!-- ===================== SOCIAL ===================== -->
 <p align="center">
-<img src="https://www.gitskins.com/api/section/social?username=battistellamattia&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383539%3Fu%3Ddb040eb9b73c830231886ea32a89e6b49ad6f05c%26v%3D4&v=showcase-social-5" alt="BattistellaMattia social visual" />
-</p>
-
-<p align="center">
 <a href="https://github.com/BattistellaMattia"><img src="https://img.shields.io/badge/GitHub-BattistellaMattia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:battistella2505@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mattia-battistella-6b7b0043b"><img src="https://img.shields.io/badge/LinkedIn-Mattia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
